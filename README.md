@@ -1,4 +1,4 @@
-v2 website is deployed, to view it live visit https://aniketgs.netlify.app
+v2 website is deployed, to view it live visit [https://exquisite-gaufre-79b911.netlify.app/]
 
 
 
